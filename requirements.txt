@@ -1,7 +1,7 @@
 tensorflow
 pandas 
-sklearn
-PIL
+scikit-learn
+Pillow
 keras
 dvc
 notebook
